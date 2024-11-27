@@ -188,9 +188,9 @@ This project uses a MongoDB database to store data. You will need to have a Mong
 - **GitHub**: [@loordhujeyakumar](https://github.com/loordhujeyakumar)
 
 ### Repository
-- **GitHub**: [Contact-Management-System](https://github.com/yourusername/Contact-Management-System)
-- **Issues**: [Report a Bug](https://github.com/yourusername/Contact-Management-System/issues)
-- **Discussions**: [Join the conversation](https://github.com/yourusername/Contact-Management-System/discussions)
+- **GitHub**: [Contact-Management-System](https://github.com/LoordhuJeyakumar/Contact-Manager-backend)
+- **Issues**: [Report a Bug](https://github.com/LoordhuJeyakumar/Contact-Manager-backend/issues)
+- **Discussions**: [Join the conversation](https://github.com/LoordhuJeyakumar/Contact-Manager-backend/discussions)
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

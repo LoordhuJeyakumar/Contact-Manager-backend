@@ -31,7 +31,7 @@ SOFTWARE.
 - **GitHub**: [@loordhujeyakumar](https://github.com/loordhujeyakumar)
 
 ### Bug Reports & Feature Requests
-- Please use the [GitHub Issues](your-repository-url/issues) page to report bugs or suggest features.
+- Please use the [GitHub Issues](https://github.com/LoordhuJeyakumar/Contact-Manager-backend/issues) page to report bugs or suggest features.
 - Before creating a new issue, please check if a similar issue already exists.
 
 ### Contributing
